@@ -5,4 +5,4 @@ int singleNumber(int* nums, int numsSize){
         num^=nums[i];
     }
     return  num;
-}
+}   
